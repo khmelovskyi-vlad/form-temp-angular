@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "form-temp-angular"
+  "defaultProject": "form-temp-angular",
+  "cli": {
+    "analytics": false
+  }
 }
